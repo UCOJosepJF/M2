@@ -1,10 +1,10 @@
 h1 {
-    color: hotpink;
+    color: rgb(255, 235, 105);
     font-family: cursive;
   }
 
  body {
    height: 100vh;
    color: #1f1f1f;
-   background: linear-gradient(to bottom, #bada55, #c0ffee);
+   background: linear-gradient(to bottom, #6b55da, #c0d2ff);
  }
